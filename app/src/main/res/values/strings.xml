@@ -1,0 +1,28 @@
+<resources>
+    --scripts generales para las activitys
+    <string name="app_name">Purple Connect</string>
+    <string name="registro">Registrate</string>
+
+    -- activity splash
+    <string name="miNombre">Juan Andres Guacaneme Oviedo</string>
+
+    --activity login
+    <string name="ingresa">Ingresar</string>
+    <string name="ingresa_google">Ingresa con Google</string>
+    <string name="inicar_aventura">La aventura está por iniciar, \npor favor inicia sesión</string>
+    <string name="recuperar_contraseña">Recupera Tu Contraseña</string>
+    <string name="no_cuenta">No tienes cuenta?</string>
+
+
+    -activity home
+    <string name="comienza">Comienza</string>
+    <string name="contenido_aventura">Inicia una nueva aventura con \nNombre DeLaApp y descubre una \nnueva forma de ver el mundo</string>
+
+
+
+
+
+
+
+
+</resources>
